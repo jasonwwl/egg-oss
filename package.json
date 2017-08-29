@@ -1,6 +1,6 @@
 {
-  "name": "egg-oss",
-  "version": "1.0.2",
+  "name": "tmc-egg-oss",
+  "version": "1.0.0",
   "description": "OSS plugin for egg",
   "eggPlugin": {
     "name": "oss"
